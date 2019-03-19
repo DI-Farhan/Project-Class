@@ -1,0 +1,11 @@
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\bin\Debug\netcoreapp2.0\LatihanClassProject.deps.json
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\bin\Debug\netcoreapp2.0\LatihanClassProject.runtimeconfig.json
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\bin\Debug\netcoreapp2.0\LatihanClassProject.runtimeconfig.dev.json
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\bin\Debug\netcoreapp2.0\LatihanClassProject.dll
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\bin\Debug\netcoreapp2.0\LatihanClassProject.pdb
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\obj\Debug\netcoreapp2.0\LatihanClassProject.csprojAssemblyReference.cache
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\obj\Debug\netcoreapp2.0\LatihanClassProject.csproj.CoreCompileInputs.cache
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\obj\Debug\netcoreapp2.0\LatihanClassProject.AssemblyInfoInputs.cache
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\obj\Debug\netcoreapp2.0\LatihanClassProject.AssemblyInfo.cs
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\obj\Debug\netcoreapp2.0\LatihanClassProject.dll
+D:\18.11.2261\LatihanClassProject\LatihanClassProject\obj\Debug\netcoreapp2.0\LatihanClassProject.pdb
